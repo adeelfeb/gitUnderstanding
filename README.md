@@ -1,2 +1,2 @@
 # gitUnderstanding
-A basic repo to understand the git commands more in-depth.
+A basic change made in the branch to see the result while merging in the main
