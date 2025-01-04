@@ -3,3 +3,5 @@
 here in main added this line to add the conflict
 
 # Now to check the diff command in git
+
+# Made changes in here to create the rebase scenario
